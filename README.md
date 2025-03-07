@@ -1,4 +1,4 @@
-## NIPS 2024 Submission #16226
+## On the Relationship Between Robustness and Expressivity of Graph Neural Networks
 
 ####   Python 3.9.16
 
